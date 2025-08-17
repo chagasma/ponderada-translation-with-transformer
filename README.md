@@ -123,15 +123,8 @@ epochs = 20
 
 ```
 ├── README.md
-├── transformer_training.ipynb    # Notebook principal
-└── requirements.txt             # Dependências
-```
-
-## Executar o Projeto
-
-```bash
-pip install tensorflow tensorflow-datasets tensorflow-text
-python transformer_training.py
+├── transformer.ipynb      # Notebook analisado disponível no tutorial
+└── requirements.txt       # Dependências
 ```
 
 ## Conclusão
