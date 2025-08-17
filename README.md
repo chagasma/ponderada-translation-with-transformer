@@ -124,8 +124,6 @@ epochs = 20
 ```
 ├── README.md
 ├── transformer_training.ipynb    # Notebook principal
-├── checkpoints/                  # Checkpoints do modelo
-├── translator/                   # Modelo exportado
 └── requirements.txt             # Dependências
 ```
 
